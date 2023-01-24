@@ -1,3 +1,5 @@
+Medical Appointment Data Analysis
+
 In this project we will try to analyze why would some patients not show up for their medical appointment and whether there are reasons for that using the data we have.
 
 The dataset we are going to use contains 110.527 medical appointments and its 14 associated variables: 
@@ -13,3 +15,7 @@ Questions to answer:
   Is the time difference between the scheduling and appointment related to whether a patient will show?
   Does age affect whether a patient will show up or not?
   What is the percentage of patients missing their appointments for every neighborhood?
+
+
+Project URL : shorturl.at/joqFO
+URL for dataset: shorturl.at/lMRSY
