@@ -1,1 +1,15 @@
+In this project we will try to analyze why would some patients not show up for their medical appointment and whether there are reasons for that using the data we have.
 
+The dataset we are going to use contains 110.527 medical appointments and its 14 associated variables: 
+PatientId, AppointmentID, Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hypertension, Diabetes, Alcoholism, Handcap', SMS_received, No-show.
+
+
+Questions to answer:
+  What is the percentage of no-shows?
+  What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
+  Is the time gender related to whether a patient will show or not?
+  Are patients with scholarships more likely to miss their appointment?
+  Are patients who don't receive SMS more likely to miss their appointment?
+  Is the time difference between the scheduling and appointment related to whether a patient will show?
+  Does age affect whether a patient will show up or not?
+  What is the percentage of patients missing their appointments for every neighborhood?
